@@ -87,7 +87,7 @@ Acesse a aplicação:
 
 Abra seu navegador e vá para http://127.0.0.1:8000.
 
-Baixar vídeos:
+Baixar vídeos
 
     Cole a URL pública de uma postagem do Instagram na caixa de texto.
     Clique em "Baixar Vídeo" para iniciar o download do vídeo.
