@@ -2,6 +2,6 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [VideoController::class, 'index']);
+
+Route::post('/download',[VideoController::class, 'download']);
